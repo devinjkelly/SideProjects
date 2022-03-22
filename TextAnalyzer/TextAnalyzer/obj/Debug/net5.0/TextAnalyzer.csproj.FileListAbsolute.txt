@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\net5.0\TextAnalyzer.exe
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\net5.0\TextAnalyzer.deps.json
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\net5.0\TextAnalyzer.runtimeconfig.json
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\net5.0\TextAnalyzer.runtimeconfig.dev.json
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\net5.0\TextAnalyzer.dll
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\net5.0\ref\TextAnalyzer.dll
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\bin\Debug\net5.0\TextAnalyzer.pdb
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\net5.0\TextAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\net5.0\TextAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\net5.0\TextAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\net5.0\TextAnalyzer.AssemblyInfo.cs
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\net5.0\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\net5.0\TextAnalyzer.dll
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\net5.0\ref\TextAnalyzer.dll
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\net5.0\TextAnalyzer.pdb
+C:\Users\Student\source\repos\TextAnalyzer\TextAnalyzer\obj\Debug\net5.0\TextAnalyzer.genruntimeconfig.cache
